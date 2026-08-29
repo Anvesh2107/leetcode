@@ -1,0 +1,23 @@
+{
+  "problems": {
+    "two-sum": {
+      "number": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "folder": "0001-two-sum",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "language": "Java",
+      "runtime": "2 ms",
+      "runtimePercentile": 99.3416,
+      "memory": "47 MB",
+      "minutesTaken": 32,
+      "solvedAt": "2026-08-29T17:18:34.000Z",
+      "attempts": 1
+    }
+  },
+  "updatedAt": "2026-08-29T17:20:38.815Z"
+}
