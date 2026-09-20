@@ -12,7 +12,7 @@
 
 ## Notes
 
-use hashSet, and use for loop nums if it contains
+use hashSet, and use for loop nums if it contains return true and if not insert the number into the set until loop is done.If nothing contains at the end return false.
 
 ## Question
 
