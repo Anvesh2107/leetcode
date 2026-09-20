@@ -17,7 +17,26 @@
       "minutesTaken": 32,
       "solvedAt": "2026-08-29T17:18:34.000Z",
       "attempts": 1
+    },
+    "contains-duplicate": {
+      "number": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "folder": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "language": "Java",
+      "runtime": "18 ms",
+      "runtimePercentile": 77.0457,
+      "memory": "108.5 MB",
+      "minutesTaken": 7,
+      "solvedAt": "2026-09-20T01:43:58.000Z",
+      "attempts": 1
     }
   },
-  "updatedAt": "2026-08-29T17:20:38.815Z"
+  "updatedAt": "2026-09-20T01:46:03.913Z"
 }
