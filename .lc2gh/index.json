@@ -55,7 +55,27 @@
       "minutesTaken": 188,
       "solvedAt": "2026-09-20T05:00:47.000Z",
       "attempts": 1
+    },
+    "group-anagrams": {
+      "number": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "folder": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "language": "Java",
+      "runtime": "14 ms",
+      "runtimePercentile": 24.617300000000014,
+      "memory": "51.1 MB",
+      "minutesTaken": null,
+      "solvedAt": "2026-09-21T03:04:19.000Z",
+      "attempts": 1
     }
   },
-  "updatedAt": "2026-09-20T05:02:52.781Z"
+  "updatedAt": "2026-09-21T03:04:28.545Z"
 }

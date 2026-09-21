@@ -1,18 +1,19 @@
 # LeetCode solutions
 
-3 solved · 3 easy · 0 medium · 0 hard
+4 solved · 3 easy · 1 medium · 0 hard
 
-_Committed automatically on each accepted submission. Last updated 2026-09-20._
+_Committed automatically on each accepted submission. Last updated 2026-09-21._
 
 ## Coverage by topic
 
-`Hash Table 3` `Array 2` `Sorting 2` `String 1`
+`Hash Table 4` `Array 3` `Sorting 3` `String 2`
 
 ## Problems
 
 | # | Problem | Difficulty | Language | Runtime | Time | Solved |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](0001-two-sum/) | Easy | Java | 2 ms | 32m | 2026-08-29 |
+| 49 | [Group Anagrams](0049-group-anagrams/) | Medium | Java | 14 ms | — | 2026-09-21 |
 | 217 | [Contains Duplicate](0217-contains-duplicate/) | Easy | Java | 18 ms | 7m | 2026-09-20 |
 | 242 | [Valid Anagram](0242-valid-anagram/) | Easy | Java | 5 ms | 188m | 2026-09-20 |
 
